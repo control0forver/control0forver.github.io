@@ -1,0 +1,48 @@
+{
+  Name:"Rawetrip",
+  Cost:"0",
+  Status:"Working",
+  BootType:"DLL"
+}
+
+{
+  Name:"Nixware Crack",
+  Cost:"-1",
+  Status:"Working",
+  BootType:"EXE"
+}
+
+{
+  Name:"OneTap V3",
+  Cost:"-1",
+  Status:"Abandoned",
+  BootType:"DLL"
+}
+
+{
+  Name:"Weave",
+  Cost:"0",
+  Status:"Recoding",
+  BootType:"DLL"
+}
+
+{
+  Name:"Nixware",
+  Cost:"23",
+  Status:"Working",
+  BootType:"EXE"
+}
+
+{
+  Name:"Neverlose",
+  Cost:"155",
+  Status:"Working",
+  BootType:"EXE"
+}
+
+{
+  Name:"OneTap V4",
+  Cost:"165",
+  Status:"Working",
+  BootType:"EXE"
+}
