@@ -1,48 +1,50 @@
 {
-  Name:"Rawetrip",
-  Cost:"0",
-  Status:"Working",
-  BootType:"DLL"
-}
+  "I0": {
+    "Name": "Rawetrip",
+    "Cost": "0",
+    "Status": "Working",
+    "BootType": "DLL"
+  },
 
-{
-  Name:"Nixware Crack",
-  Cost:"-1",
-  Status:"Working",
-  BootType:"EXE"
-}
+  "I1": {
+    "Name": "Nixware Crack",
+    "Cost": "-1",
+    "Status": "Working",
+    "BootType": "EXE"
+  },
 
-{
-  Name:"OneTap V3",
-  Cost:"-1",
-  Status:"Abandoned",
-  BootType:"DLL"
-}
+  "I2": {
+    "Name": "OneTap V3",
+    "Cost": "-1",
+    "Status": "Abandoned",
+    "BootType": "DLL"
+  },
 
-{
-  Name:"Weave",
-  Cost:"0",
-  Status:"Recoding",
-  BootType:"DLL"
-}
+  "I3": {
+    "Name": "Weave",
+    "Cost": "0",
+    "Status": "Recoding",
+    "BootType": "DLL"
+  },
 
-{
-  Name:"Nixware",
-  Cost:"23",
-  Status:"Working",
-  BootType:"EXE"
-}
+  "I4": {
+    "Name": "Nixware",
+    "Cost": "23",
+    "Status": "Working",
+    "BootType": "EXE"
+  },
 
-{
-  Name:"Neverlose",
-  Cost:"155",
-  Status:"Working",
-  BootType:"EXE"
-}
+  "I5": {
+    "Name": "Neverlose",
+    "Cost": "155",
+    "Status": "Working",
+    "BootType": "EXE"
+  },
 
-{
-  Name:"OneTap V4",
-  Cost:"165",
-  Status:"Working",
-  BootType:"EXE"
+  "I6": {
+    "Name": "OneTap V4",
+    "Cost": "165",
+    "Status": "Working",
+    "BootType": "EXE"
+  }
 }
