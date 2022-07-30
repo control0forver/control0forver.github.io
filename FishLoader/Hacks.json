@@ -1,11 +1,21 @@
 {
-  "Hacks":[
+  "Hacks": [
+    {
+      "Name": "Sunset",
+      "Cost": "0",
+      "Status": "Working",
+      "BootType": "DLL",
+      "FileName": "sunset.dll",
+      "ScreenShots": 0
+    },
+
     {
       "Name": "Rawetrip",
       "Cost": "0",
       "Status": "Working",
       "BootType": "DLL",
-      "FileName": "rawetrip.dll"
+      "FileName": "rawetrip.dll",
+      "ScreenShots": 2
     },
 
     {
@@ -13,7 +23,8 @@
       "Cost": "-1",
       "Status": "Working",
       "BootType": "EXE",
-      "FileName": "nixc.exe"
+      "FileName": "nixc.exe",
+      "ScreenShots": 0
     },
 
     {
@@ -21,7 +32,8 @@
       "Cost": "-1",
       "Status": "Abandoned",
       "BootType": "DLL",
-      "FileName": "otc3.dll"
+      "FileName": "otc3.dll",
+      "ScreenShots": 0
     },
 
     {
@@ -29,7 +41,8 @@
       "Cost": "0",
       "Status": "Recoding",
       "BootType": "DLL",
-      "FileName": "weave.dll"
+      "FileName": "weave.dll",
+      "ScreenShots": 0
     },
 
     {
@@ -37,7 +50,8 @@
       "Cost": "23",
       "Status": "Working",
       "BootType": "EXE",
-      "FileName": "nixware.exe"
+      "FileName": "nixware.exe",
+      "ScreenShots": 0
     },
 
     {
@@ -45,7 +59,8 @@
       "Cost": "155",
       "Status": "Working",
       "BootType": "EXE",
-      "FileName": ">empty"
+      "FileName": ">empty",
+      "ScreenShots": 0
     },
 
     {
@@ -53,7 +68,8 @@
       "Cost": "165",
       "Status": "Working",
       "BootType": "EXE",
-      "FileName": ">empty"
+      "FileName": ">empty",
+      "ScreenShots": 0
     }
   ]
 }
