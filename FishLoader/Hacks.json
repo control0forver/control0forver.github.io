@@ -4,49 +4,56 @@
       "Name": "Rawetrip",
       "Cost": "0",
       "Status": "Working",
-      "BootType": "DLL"
+      "BootType": "DLL",
+      "FileName": "rawetrip.dll"
     },
 
     {
       "Name": "Nixware Crack",
       "Cost": "-1",
       "Status": "Working",
-      "BootType": "EXE"
+      "BootType": "EXE",
+      "FileName": "nixc.exe"
     },
 
     {
-      "Name": "OneTap V3",
+      "Name": "OneTap V3 Crack",
       "Cost": "-1",
       "Status": "Abandoned",
-      "BootType": "DLL"
+      "BootType": "DLL",
+      "FileName": "otc3.dll"
     },
 
     {
       "Name": "Weave",
       "Cost": "0",
       "Status": "Recoding",
-      "BootType": "DLL"
+      "BootType": "DLL",
+      "FileName": "weave.dll"
     },
 
     {
       "Name": "Nixware",
       "Cost": "23",
       "Status": "Working",
-      "BootType": "EXE"
+      "BootType": "EXE",
+      "FileName": "nixware.exe"
     },
 
     {
       "Name": "Neverlose",
       "Cost": "155",
       "Status": "Working",
-      "BootType": "EXE"
+      "BootType": "EXE",
+      "FileName": ">empty"
     },
 
     {
       "Name": "OneTap V4",
       "Cost": "165",
       "Status": "Working",
-      "BootType": "EXE"
+      "BootType": "EXE",
+      "FileName": ">empty"
     }
   ]
 }
