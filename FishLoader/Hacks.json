@@ -1,6 +1,15 @@
 {
   "Hacks": [
     {
+      "Name": "NezuLoader",
+      "Cost": "0",
+      "Status": "Working",
+      "BootType": "DLL",
+      "FileName": "NezuLoader.dll",
+      "ScreenShots": 0
+    },
+
+    {
       "Name": "Sunset",
       "Cost": "0",
       "Status": "Recoding",
