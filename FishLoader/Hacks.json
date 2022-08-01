@@ -1,20 +1,29 @@
 {
   "Hacks": [
     {
-      "Name": "NezuLoader",
+      "Name": "BaiMaoSense",
       "Cost": "0",
       "Status": "Working",
       "BootType": "DLL",
-      "FileName": "NezuLoader.dll",
+      "FileName": "baimaosense.dll",
       "ScreenShots": 0
     },
 
     {
-      "Name": "Sunset",
+      "Name": "FishSense",
       "Cost": "0",
-      "Status": "Recoding",
+      "Status": "Working",
       "BootType": "DLL",
-      "FileName": ">empty",
+      "FileName": "FishSense.dll",
+      "ScreenShots": 0
+    },
+
+    {
+      "Name": "Osiris",
+      "Cost": "0",
+      "Status": "Working",
+      "BootType": "DLL",
+      "FileName": "Osiris.dll",
       "ScreenShots": 0
     },
 
@@ -32,24 +41,6 @@
       "Cost": "-1",
       "Status": "Working",
       "BootType": "EXE",
-      "FileName": "nixc.exe",
-      "ScreenShots": 0
-    },
-
-    {
-      "Name": "OneTap V3 Crack",
-      "Cost": "-1",
-      "Status": "Abandoned",
-      "BootType": "DLL",
-      "FileName": ">empty",
-      "ScreenShots": 0
-    },
-
-    {
-      "Name": "Weave",
-      "Cost": "0",
-      "Status": "Recoding",
-      "BootType": "DLL",
       "FileName": ">empty",
       "ScreenShots": 0
     },
@@ -77,6 +68,33 @@
       "Cost": "165",
       "Status": "Working",
       "BootType": "EXE",
+      "FileName": ">empty",
+      "ScreenShots": 0
+    },
+
+    {
+      "Name": "Weave",
+      "Cost": "0",
+      "Status": "Recoding",
+      "BootType": "DLL",
+      "FileName": ">empty",
+      "ScreenShots": 0
+    },
+
+    {
+      "Name": "Sunset",
+      "Cost": "0",
+      "Status": "Recoding",
+      "BootType": "DLL",
+      "FileName": ">empty",
+      "ScreenShots": 0
+    },
+
+    {
+      "Name": "OneTap V3 Crack",
+      "Cost": "-1",
+      "Status": "Abandoned",
+      "BootType": "DLL",
       "FileName": ">empty",
       "ScreenShots": 0
     }
