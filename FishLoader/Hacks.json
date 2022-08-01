@@ -10,11 +10,12 @@
     },
 
     {
-      "Name": "FishSense",
+      //FishSense.dll
+      "Name": "FishSense(内测中)",
       "Cost": "0",
       "Status": "Working",
       "BootType": "DLL",
-      "FileName": "FishSense.dll",
+      "FileName": "<empty",
       "ScreenShots": 0
     },
 
