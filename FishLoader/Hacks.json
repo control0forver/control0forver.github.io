@@ -29,7 +29,6 @@
     },
 
     {
-      //FishSense.dll
       "Name": "NezuLoader",
       "Cost": "0",
       "Status": "Working",
@@ -45,15 +44,6 @@
       "BootType": "DLL",
       "FileName": "rawetrip.dll",
       "ScreenShots": 2
-    },
-
-    {
-      "Name": "Nixware Crack",
-      "Cost": "-1",
-      "Status": "Working",
-      "BootType": "EXE",
-      "FileName": ">empty",
-      "ScreenShots": 0
     },
 
     {
@@ -97,6 +87,15 @@
       "Cost": "0",
       "Status": "Recoding",
       "BootType": "DLL",
+      "FileName": ">empty",
+      "ScreenShots": 0
+    },
+
+    {
+      "Name": "Nixware Crack",
+      "Cost": "-1",
+      "Status": "Recoding",
+      "BootType": "EXE",
       "FileName": ">empty",
       "ScreenShots": 0
     },
