@@ -29,6 +29,16 @@
     },
 
     {
+      //FishSense.dll
+      "Name": "NezuLoader",
+      "Cost": "0",
+      "Status": "Working",
+      "BootType": "DLL",
+      "FileName": "NezuLoader.dll",
+      "ScreenShots": 0
+    },
+
+    {
       "Name": "Rawetrip",
       "Cost": "0",
       "Status": "Working",
